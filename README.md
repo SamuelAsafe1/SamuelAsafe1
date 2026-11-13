@@ -5,7 +5,7 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/samuel-asafe-8b20273a0" target="_blank">
+  <a href="https://www.linkedin.com/in/samuel-asafe-8b20273a0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -20,7 +20,7 @@
 
 ###
 
-<p data-importer="text" align="left">Eu sou de Ibirité-MG</p>
+<p data-importer="text" align="left">-Me chamo Samuel Asafe<br>- Sou desenvolvedor Front-end em formação.<br>-Veja abaixo: Linguagens e projetos!</p>
 
 ###
 
@@ -38,16 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/SamuelAsafe1/SamuelAsafe1/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
