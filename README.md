@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">Eu sou de MG<br><br>- 📚 Eu sou estudante de ADS<br>- ⚡ Gosto de ver mais sobre <br>programção e jogos no meu tempo livre<br>-💻Foco em front-end</p>
+<p data-importer="text" align="left">Eu sou de Ibirité-MG <br><br>- 📚 Eu sou estudante de ADS<br>- ⚡ Gosto de ver mais sobre <br>programção e jogos no meu tempo livre<br>-💻Foco em front-end</p>
 
 ###
 
